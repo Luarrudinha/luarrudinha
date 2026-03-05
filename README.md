@@ -4,7 +4,9 @@
 
 
 ##### 💻 Estudante de Desenvolvimento Web 
+<p>
 Sou uma desenvolvedora web em formação, apaixonada por tecnologia e criação de interfaces modernas.Atualmente estudo e desenvolvo projetos utilizando HTML, CSS, JavaScript, React, Next.js e Node.js, além de explorar ferramentas como Docker e bancos de dados.Meu objetivo é evoluir constantemente como desenvolvedora, criando aplicações completas e aprendendo novas tecnologias que contribuam para soluções eficientes e escaláveis.
+</p>
 ---
 
 ### 🤖 Tecnologias que utilizo
