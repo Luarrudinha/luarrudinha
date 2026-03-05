@@ -25,7 +25,14 @@ Sou uma desenvolvedora web em formação, apaixonada por tecnologia e criação 
 ---
 
 ### Redes sociais
+
 <p>
-  <a href="https://linkedin.com/in/luana-arruda">
-  <a href="https://instagram.com/luarrudinha">
+<a href="https://linkedin.com/in/SEU-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/SEU-INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
 </p>
