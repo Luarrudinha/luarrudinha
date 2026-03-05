@@ -27,11 +27,11 @@ Sou uma desenvolvedora web em formação, apaixonada por tecnologia e criação 
 ### Redes sociais
 
 <p>
-<a href="https://www.linkedin.com/in/luana-arruda-635570268/">
+<a href="https://www.linkedin.com/in/luana-arruda-635570268/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/luana_arrudinha/">
+<a href="https://www.instagram.com/luana_arrudinha/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
