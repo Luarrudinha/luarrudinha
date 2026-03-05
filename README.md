@@ -23,3 +23,9 @@ Sou uma desenvolvedora web em formação, apaixonada por tecnologia e criação 
 - APIs
 - MySQL
 ---
+
+### Redes sociais
+<p>
+  <a href="https://linkedin.com/in/luana-arruda">
+  <a href="https://instagram.com/luarrudinha">
+</p>
