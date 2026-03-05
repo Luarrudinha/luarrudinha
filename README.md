@@ -9,8 +9,7 @@
 ## 🚀 Tecnologias que utilizo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,docker,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,mysql,docker,git,github,vscode" /></p>
 
 ---
 
@@ -24,23 +23,11 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
-<div>
+<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luarrudinha&show_icons=true&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luarrudinha&layout=compact&theme=tokyonight"/>
-</div>
+</p>
 
 ---
-
-## 📌 Projetos
-
-🔹 Projetos em desenvolvimento com React  
-🔹 Aplicações Full Stack  
-🔹 Estudos de Docker e APIs  
-
----
-
-## 📫 Contato
-
-💼 GitHub: https://github.com/Luarrudinha
