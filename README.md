@@ -1,7 +1,9 @@
 ## 👩‍💻 Luana Arruda
 
-💻 Estudante de Desenvolvimento Web  
 **`Focada em Front-End e Full Stack`**  
+
+
+💻 Estudante de Desenvolvimento Web  
 ---
 
 ## 🤖 Tecnologias que utilizo
