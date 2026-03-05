@@ -1,16 +1,46 @@
-## Hi there 👋
+## 👩‍💻 Luana Arruda
 
-<!--
-**Luarrudinha/luarrudinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Desenvolvimento Web  
+🚀 Focada em Front-End e Full Stack  
+📚 Sempre aprendendo novas tecnologias
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que utilizo
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,docker,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+- React
+- Node.js
+- Docker
+- APIs
+- MySQL
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luarrudinha&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luarrudinha&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+## 📌 Projetos
+
+🔹 Projetos em desenvolvimento com React  
+🔹 Aplicações Full Stack  
+🔹 Estudos de Docker e APIs  
+
+---
+
+## 📫 Contato
+
+💼 GitHub: https://github.com/Luarrudinha
